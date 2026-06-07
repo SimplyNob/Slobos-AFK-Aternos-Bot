@@ -1,12 +1,12 @@
 {
-  "name": "NobBot24_7",
+  "name": "NobBot247",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "NobBot247",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "nobwars.play.hosting",
+    "ip": "NobWars.play.hosting",
     "port": 7644,
     "version": "",
     "try-creative": false
