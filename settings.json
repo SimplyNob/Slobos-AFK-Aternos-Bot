@@ -8,7 +8,7 @@
   "server": {
     "ip": "NobWars.play.hosting",
     "port": 7644,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "afk bot by simplynob to keep server infinite",
+        "afk bot by simplynob",
         "test test test ",
         "skibi"
       ]
