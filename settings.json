@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nobwars.aternos.me",
+    "ip": "nobwars.play.hosting",
     "port": 7644,
     "version": "",
     "try-creative": false
